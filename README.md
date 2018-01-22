@@ -3,4 +3,4 @@
 
 ### 文章目录
 * [浏览器同源策略及跨域方案总结](https://github.com/cocolbell/articles/blob/master/articles/1.md)
-* [浏览器同源策略及跨域方案总结](./blob/master/articles/1.md)
+* [浏览器同源策略及跨域方案总结](./articles/1.md)
