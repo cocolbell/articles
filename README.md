@@ -6,3 +6,4 @@
 
 ### 代码分析目录
 * [new运算符到底干了什么？](./codes/1.md)
+* [JavaScript中'hello'为什么可以调用方法？](./codes/2.md)
