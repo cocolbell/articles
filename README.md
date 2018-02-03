@@ -6,6 +6,7 @@
 ### 文章目录
 * [浏览器同源策略及跨域方案总结](./articles/1.md)
 * [浏览器缓存机制解析](./articles/2.md)
+* [JavaScript函数篇 —— 函数重载](./articles/3.md)
 
 ### 代码分析目录
 * [new运算符到底干了什么？](./codes/1.md)
